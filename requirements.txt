@@ -1,7 +1,7 @@
 numpy
 pandas
-pickle
 pyarrow
 seaborn
 matplotlib
 scikit-learn
+mlflow
